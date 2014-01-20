@@ -1,0 +1,1 @@
+A simple node HTTP/HTTPS proxy to root all request on wifi network. Very usefull if your ethernet network is plugged under a restricted proxy. By using this proxy in addition of the ProxySwitchy! extenstion in Chrome, you don't have to disconnect network cards to swich networks.
